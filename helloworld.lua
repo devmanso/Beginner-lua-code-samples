@@ -6,4 +6,8 @@ print"hello world"
 
 print"hello world";
 
+print "hello world" -- this works fine because lua doesn't care about whitespace
+
+print "hello world";
+
 io.write("hello world")
