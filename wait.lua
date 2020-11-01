@@ -7,7 +7,6 @@ function wait(seconds)-- you can name this function
 end
 
 -- this is a wait functionin lua  you use it like this
-
+print"this terminal will close in one second"
 wait(1)
-print
 
