@@ -1,7 +1,11 @@
 -- If clauses:
+num = 123
+s = "blah blah 1" 
+
+
 if num > 40 then
-  print('over 40')
-elseif s ~= 'walternate' then  -- ~= is not equals.
+  print('over 40') -- 
+elseif s ~= 'blah blah' then  -- ~= is not equals.
   -- Equality check is == like Python; ok for strs.
   io.write('not over 40\n')  -- Defaults to stdout.
 else
