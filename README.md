@@ -12,3 +12,6 @@ I think the article above is good enough
 
 ## Linux | Ubuntu
 https://rasyid.net/2014/03/04/install-lua-on-linux-ubuntu/
+
+# have suggestions or found errors in code?
+please make a pull-request or issue!
